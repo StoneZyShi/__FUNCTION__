@@ -8,6 +8,7 @@ void main()
 	cout << __TIME__ << endl;
 	cout << __FILE__ << endl;
 	cout << __LINE__ << endl;
+	cout << __TIMESTAMP__ << endl;
 	cout << __FUNCTION__ << endl;
 
 #ifdef WINDOWS_VS2005_UP
